@@ -34,3 +34,21 @@ Berikut adalah hasil implementasi Modul 4 (Operasi CRUD Produk, Registrasi, dan 
 | Halaman Tambah Produk | Halaman Detail Produk | Halaman Ubah Produk |
 | :---: | :---: | :---: |
 | ![Halaman Tambah Produk](gambar/p4%20(1).png) | ![Halaman Detail Produk](gambar/p4%20(3).png) | ![Halaman Ubah Produk](gambar/p4%20(2).png) |
+
+---
+
+### Dokumentasi Praktikum 5
+
+Berikut adalah hasil implementasi Modul 5 (Membuat Helper Modul, BLoC, dan Integrasi REST API ke UI Flutter):
+
+| Registrasi Berhasil | Peringatan Login Gagal | Halaman List Produk (REST API) |
+| :---: | :---: | :---: |
+| ![Registrasi Berhasil](gambar/p5%20(2).jpeg) | ![Login Gagal](gambar/p5%20(1).jpeg) | ![List Produk](gambar/p5%20(3).jpeg) |
+
+| Side Menu / Logout | Halaman Tambah Produk | Halaman Detail Produk |
+| :---: | :---: | :---: |
+| ![Side Menu Logout](gambar/p5%20(4).jpeg) | ![Tambah Produk](gambar/p5%20(7).jpeg) | ![Detail Produk](gambar/p5%20(5).jpeg) |
+
+| Halaman Ubah Produk | List Produk Setelah Diubah |
+| :---: | :---: |
+| ![Ubah Produk](gambar/p5%20(6).jpeg) | ![List Produk Setelah Diubah](gambar/p5%20(8).jpeg) |
